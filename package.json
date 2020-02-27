@@ -71,7 +71,7 @@
     "@types/yup": "^0.26.13",
     "prettier": "^1.17.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "http://yourfielderschoice.com/dev",
   "keywords": [
     "gatsby"
   ],
@@ -79,7 +79,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/Salagency/yfc.git"
   },
   "scripts": {
     "build": "gatsby build",
